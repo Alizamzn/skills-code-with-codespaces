@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo apt update
-sudo apt install -y sl
+sudo apt-get update
+sudo apt-get install -y sl
